@@ -1,4 +1,4 @@
-from MoneyModel import MoneyModel
+from MoneyModel_TEMPLATE import MoneyModel
 import matplotlib.pyplot as plt
 import numpy as np
 from mesa.batchrunner import BatchRunner

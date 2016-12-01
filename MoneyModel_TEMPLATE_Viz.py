@@ -1,4 +1,4 @@
-from MoneyModel import *
+from MoneyModel_TEMPLATE import *
 from mesa.visualization.modules import CanvasGrid
 from mesa.visualization.modules import ChartModule
 from mesa.visualization.ModularVisualization import ModularServer
